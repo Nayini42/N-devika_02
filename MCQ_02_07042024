@@ -1,0 +1,34 @@
+String in Java is a?
+a) class
+b) object
+c) variable
+d) character array
+Answer : b
+
+Which of these method of String class is used to obtain character at specified index?
+a) char()
+b) Charat()
+c) charat()
+d) charAt()
+Answer : d
+
+Which of these method of String class can be used to test to strings for equality?
+a) isequal()
+b) isequals()
+c) equal()
+d) equals()
+Answer : d
+
+Which of the following statements are incorrect?
+a) String is a class
+b) Strings in java are mutable
+c) Every string is an object of class String
+d) Java defines a peer class of String, called StringBuffer, which allows string to be altered
+Answer : b
+
+Select all the classes that extend the String class
+a) StringBuffer
+b) StringBuilder
+c) StringWriter
+d) None
+Answer : d
