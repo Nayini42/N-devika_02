@@ -1,0 +1,34 @@
+What is an Array in Java? 
+a) A collection of elements with different types 
+b) A collection of elements with the same type 
+c) A resizable data structure 
+d) A container for storing key-value pairs
+Answer : b
+
+Which of these is an incorrect array declaration?
+a) int arr[] = new int[5]
+b) int [] arr = new int[5]
+c) int arr[] = new int[5]
+d) int arr[] = int [5] new
+Answer : d
+
+Which of these is an incorrect Statement?
+a) It is necessary to use new operator to initialize an array
+b) Array can be initialized using comma separated expressions surrounded by curly braces
+c) Array can be initialized when they are declared
+d) None of the mentioned
+Answer : a
+
+How do you access an element in an array in Java? 
+a) By using the element's value 
+b) By using the element's index 
+c) By using the element's key 
+d) By using the element's label
+Answer : b
+
+What happens if you try to access an array element with an index that is out of bounds? 
+a) A runtime exception is thrown 
+b) The program terminates abruptly 
+c) The element value is set to null 
+d) The element value is set to 0
+Answer : a
